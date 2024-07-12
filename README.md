@@ -9,6 +9,7 @@ cd build
 cmake ../
 cmake --build .
 ```
+>***WARNING!*** requires Visual Studio Build Tools
 
 # How to use
 ### Command:
